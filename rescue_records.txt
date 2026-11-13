@@ -1,0 +1,16 @@
+D001|Fruits|Fruits|9.0|8
+D002|Saty|Vegetables|9.0|8
+D001|Bikaner|Fruits|8.0|6
+D003|Green Oven Bakery|Baked Food|8.5|6
+D004|Bikaner|Fruits|8.0|3
+D005|Fresh Mart|Vegetables|9.0|8
+D006|City Restaurant|Cooked Food|10.0|18
+D007|Bikaner|Fruits|8.0|3
+D008|Green Over Bkery|Baked Food|8.5|6
+D009|Fresh Mart|Vegetables|9.0|8
+D010|City Restaurant|Cooked Food|10.0|18
+D011|Bikaner|Fruits|8.0|3
+D012|Green Over Bakery|Baked Food|8.5|6
+D013|Fresh Mart|Vegetables|9.0|8
+D014|City Restaurant|Cooked Food|10.0|18
+D999|Test Bakery|Bread
